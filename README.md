@@ -4,6 +4,11 @@ Arch Linux for Khadas VIM4
 Download  
 [khadas::Google Drive](https://drive.google.com/drive/folders/10nBijHh5i2y7tXED6OXy27OSWCEWTnEe?usp=sharing)  
 
+Direct links  
+`BOOT.tar.gz` https://drive.google.com/file/d/182mUjyBU37nLS-6uUri7NqeajZZLNU9R/view?usp=share_link  
+`ROOTFS.tar.gz` https://drive.google.com/file/d/1rZCLRbPnfm6nSWx-7_sdqOJaOjFv526m/view?usp=share_link  
+
+
 You can only extract `ROOTFS.tar.gz` if BOOT partition is already contains U-Boot system.  
 
 Unpack  
