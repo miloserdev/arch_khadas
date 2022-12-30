@@ -9,7 +9,7 @@ Direct links
 `ROOTFS.tar.gz` https://drive.google.com/file/d/1rZCLRbPnfm6nSWx-7_sdqOJaOjFv526m/view?usp=share_link  
 
 
-You can only extract `ROOTFS.tar.gz` if BOOT partition is already contains U-Boot system.  
+You can only extract `ROOTFS.tar.gz` if BOOT partition already contains U-Boot system.  
 
 Unpack  
 `sudo tar -zxvf BOOT.tar.gz -C /<BOOT mount point>`  
